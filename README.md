@@ -1,4 +1,7 @@
-# Exploratory Data Analysis
+# Exploratory Data Analysis of Terrorist activity in India
 
-Analysed data of Terrorist Activity in india
-EDA.pdf consists of codes used to make plots
+data -->india.csv
+
+code -->EDA.pdf
+
+Visualisation -->terrorists.ipynb
