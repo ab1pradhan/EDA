@@ -1,7 +1,7 @@
 # Exploratory Data Analysis of Terrorist activity in India
 
-data -->india.csv
+data -->indiadata.csv
 
 code -->EDA.pdf
 
-Visualisation -->terrorists.ipynb
+Visualisation -->Terrorist EDA-Copy1.ipynb
